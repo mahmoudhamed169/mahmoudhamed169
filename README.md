@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hey there! I’m a React Developer with a passion for interactive web experiences. 🌐<br><br>🎓 Always learning: currently leveling up my React and TypeScript skills.<br>🛠️ Tech Stack: Skilled in React, Material-UI, Axios, and exploring Redux Toolkit.<br>🚀 Love building dynamic components that enhance user experience.<br>🌱 Beyond Code:<br>When not coding, I’m into books 📚 and tech trends 🌐, ready for new challenges!
+# 💫 About Me
+
+Hey there! I’m a **React Developer** with a passion for interactive web experiences. 🌐
+
+- 🎓 **Always Learning**: Currently leveling up my React and TypeScript skills.
+- 🛠️ **Tech Stack**: Skilled in React, Material-UI, Axios, and exploring Redux Toolkit.
+- 🚀 **Projects**: Love building dynamic components that enhance user experience.
+
+🌱 **Beyond Code**: When not coding, I’m into books 📚 and tech trends 🌐, ready for new challenges!
+
 
 
 ## 🌐 Socials:
